@@ -15,7 +15,11 @@ lnviz creates a file titled `report.html` containing a report with charts.
 `open report.html`
 
 ## Examples
+![sum_route_fee_outbound](https://user-images.githubusercontent.com/8378656/116965885-c910e700-ac63-11eb-9696-3aa2fe0ddd27.png)
 
+![sum_route_fee](https://user-images.githubusercontent.com/8378656/116965895-d1692200-ac63-11eb-99cc-7f4365b55452.png)
+
+![sum_rout_fee_inbound](https://user-images.githubusercontent.com/8378656/116965901-d4fca900-ac63-11eb-8df9-2f3c7f5c5fb9.png)
 
 ## Remaining work
 * Expose report as a server and subscribe to routing events to build a live reporting tool.
